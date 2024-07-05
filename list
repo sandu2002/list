@@ -1,0 +1,12 @@
+void main() {
+  Set<int> myset = {1, 2, 3, 4};
+  print(myset);
+
+  Set<String> myset2 = {"samin", "kamal", "sunil"};
+  print(myset2);
+
+  List<int> mylist = [1, 2, 3];
+  print(mylist[1]);
+  mylist[1] = 200;
+  print(mylist);
+}
